@@ -140,16 +140,6 @@ Computer Vision       MERN Applications    Data Analytics
 
 </details>
 
-## GitHub Activity
-
-<div align="center">
-
-![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshikaaa1911&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikaaa1911&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## Let's Connect
 
 I'm open to internships, collaborations, research-focused builds, and product ideas involving machine learning, data analytics, and full-stack development.
