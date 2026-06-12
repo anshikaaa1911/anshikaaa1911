@@ -96,8 +96,7 @@ Computer Vision       MERN Applications    Data Analytics
         <li>Data-driven recommendation features</li>
       </ul>
     </td>
-
-    <td width="50%"></td>
+    
   </tr>
 </table>
 
