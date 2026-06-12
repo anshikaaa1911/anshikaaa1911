@@ -36,6 +36,12 @@ Computer Vision       MERN Applications    Data Analytics
 | Strengths | Python, ML pipelines, statistics, full-stack development, analytics |
 | Interests | Cyber fraud detection, deepfake analysis, recommendation systems, data-driven products |
 
+<ul>
+  <li>Organized and managed MUN conferences, debates, speeches, and writing competitions</li>
+  <li>Coordinated teams, event logistics, participant engagement, and execution activities</li>
+  <li>Developed leadership, public speaking, communication, teamwork, and problem-solving skills</li>
+</ul>
+
 ## Featured Work
 
 <table>
@@ -151,8 +157,22 @@ Computer Vision       MERN Applications    Data Analytics
 - Technical communication and stakeholder collaboration
 - Teamwork, adaptability, and leadership in project development
 - Ability to interpret data-driven insights for decision making
-
+  
 </details>
+
+## ACTIVITIES
+<h2> Leadership & Activities</h2>
+
+<h3>Literary & Debating Coordinator (2025–26)</h3>
+<p>
+Led the planning and execution of Model United Nations (MUNs), debate competitions, speech contests, and creative writing events, fostering student engagement and collaborative learning while strengthening leadership and communication skills.
+</p>
+
+<ul>
+  <li>Organized and managed MUN conferences, debates, speeches, and writing competitions</li>
+  <li>Coordinated teams, event logistics, participant engagement, and execution activities</li>
+  <li>Developed leadership, public speaking, communication, teamwork, and problem-solving skills</li>
+</ul>
 
 ## Let's Connect
 
