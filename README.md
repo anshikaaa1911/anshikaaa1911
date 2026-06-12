@@ -41,7 +41,7 @@ Computer Vision       MERN Applications    Data Analytics
 <table>
   <tr>
     <td width="50%">
-      <h3>Behavioral Fraud Awareness & Simulation Platform</h3>
+      <h3> Behavioral Fraud Awareness & Simulation Platform</h3>
       <p>Interactive cyber fraud simulation platform with deep learning-based scam classification.</p>
       <ul>
         <li>CNN and XceptionNet-based classification</li>
@@ -50,7 +50,7 @@ Computer Vision       MERN Applications    Data Analytics
       </ul>
     </td>
     <td width="50%">
-      <h3>College Marketplace + ML Recommendations</h3>
+      <h3> College Marketplace + ML Recommendations</h3>
       <p>Peer-to-peer resale platform for students with a behavior-based recommendation system.</p>
       <ul>
         <li>User interaction and behavioral data modeling</li>
@@ -59,6 +59,7 @@ Computer Vision       MERN Applications    Data Analytics
       </ul>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>Employee Goal Management Portal</h3>
@@ -69,8 +70,19 @@ Computer Vision       MERN Applications    Data Analytics
         <li>MongoDB models with Mongoose</li>
       </ul>
     </td>
+
+  <td width="50%"> 
+    <h3> Doctor Prescription OCR System</h3> 
+    <p>OCR-based application that extracts and digitizes text from prescription images using image preprocessing and text recognition techniques.</p>
+    <ul> <li>Built using Python, OpenCV, and Tesseract OCR</li> 
+      <li>Implemented grayscale conversion, thresholding, and noise reduction</li> 
+      <li>Generated machine-readable text from prescription images</li>
+    </ul> </td> 
+    </tr>
+
+  <tr>
     <td width="50%">
-      <h3>GROWNET Trust-Based Community Platform</h3>
+      <h3> GROWNET Trust-Based Community Platform</h3>
       <p>Community platform concept focused on trust scoring, SOS alerts, and recommendation features.</p>
       <ul>
         <li>Trust-based interaction design</li>
@@ -78,6 +90,8 @@ Computer Vision       MERN Applications    Data Analytics
         <li>Data-driven recommendation features</li>
       </ul>
     </td>
+
+    <td width="50%"></td>
   </tr>
 </table>
 
