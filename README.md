@@ -36,11 +36,6 @@ Computer Vision       MERN Applications    Data Analytics
 | Strengths | Python, ML pipelines, statistics, full-stack development, analytics |
 | Interests | Cyber fraud detection, deepfake analysis, recommendation systems, data-driven products |
 
-<ul>
-  <li>Organized and managed MUN conferences, debates, speeches, and writing competitions</li>
-  <li>Coordinated teams, event logistics, participant engagement, and execution activities</li>
-  <li>Developed leadership, public speaking, communication, teamwork, and problem-solving skills</li>
-</ul>
 
 ## Featured Work
 
