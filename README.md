@@ -83,7 +83,7 @@ Computer Vision       MERN Applications    Data Analytics
 
   <tr>
     <td width="50%">
-      <h3> GROWNET Trust-Based Community Platform</h3>
+      <h3> GROWNET Trust-Based Community Platform <i>(still building)</i></h3>
       <p>Community platform concept focused on trust scoring, SOS alerts, and recommendation features.</p>
       <ul>
         <li>Trust-based interaction design</li>
