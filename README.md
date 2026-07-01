@@ -75,10 +75,13 @@ Computer Vision       MERN Applications    Data Analytics
   <td width="50%"> 
     <h3> Doctor Prescription OCR System</h3> 
     <p>OCR-based application that extracts and digitizes text from prescription images using image preprocessing and text recognition techniques.</p>
-    <ul> <li>Built using Python, OpenCV, and Tesseract OCR</li> 
-      <li>Implemented grayscale conversion, thresholding, and noise reduction</li> 
-      <li>Generated machine-readable text from prescription images</li>
-    </ul> </td> 
+    <ul>
+  <li>Built a prescription digitization platform using Python, OpenCV, Tesseract OCR, EasyOCR, spaCy, and FastAPI.</li>
+
+  <li>Implemented image preprocessing, intelligent OCR fallback, and structured medical entity extraction with confidence scoring.</li>
+
+  <li>Integrated OpenAI GPT & NVIDIA NIM (Llama 3.1) for OCR refinement, OpenFDA drug validation, and REST APIs for scalable processing.</li>
+</ul> </td> 
     </tr>
 
   <tr>
