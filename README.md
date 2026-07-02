@@ -62,25 +62,24 @@ Computer Vision       MERN Applications    Data Analytics
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3>Employee Goal Management Portal</h3>
-      <p>MERN-based portal for goal setting, approvals, performance tracking, reporting, and admin workflows.</p>
-      <ul>
-        <li>JWT authentication and role-based access</li>
-        <li>REST APIs for goals, teams, users, audit logs, and exports</li>
-        <li>MongoDB models with Mongoose</li>
-      </ul>
-    </td>
+   <td width="50%">
+  <h3>Employee Goal Management Portal</h3>
+  <p>MERN-based portal for goal setting, approvals, performance tracking, reporting, and admin workflows.</p>
+  <ul>
+    <li>JWT authentication and role-based access</li>
+    <li>REST APIs for goals, teams, users, audit logs, and exports</li>
+    <li>MongoDB models with Mongoose</li>
+  </ul>
+</td>
 
-  <td width="50%"> 
-    <h3> Doctor Prescription OCR System</h3> 
-    <ul>
-  <li>Built a prescription digitization platform using Python, OpenCV, Tesseract OCR, EasyOCR, spaCy, and FastAPI.</li>
-
-  <li>Implemented image preprocessing, intelligent OCR fallback, and structured medical entity extraction with confidence scoring.</li>
-
-  <li>Integrated OpenAI GPT & NVIDIA NIM (Llama 3.1) for OCR refinement, OpenFDA drug validation, and REST APIs for scalable processing.</li>
-</ul> </td> 
+<td width="50%">
+  <h3>Doctor Prescription OCR System</h3>
+  <ul>
+    <li>Built a prescription digitization platform using Python, OpenCV, Tesseract OCR, EasyOCR, spaCy, and FastAPI.</li>
+    <li>Implemented image preprocessing, intelligent OCR fallback, and structured medical entity extraction with confidence scoring.</li>
+    <li>Integrated OpenAI GPT & NVIDIA NIM (Llama 3.1) for OCR refinement, OpenFDA drug validation, and REST APIs for scalable processing.</li>
+  </ul>
+</td>
     </tr>
 
   <tr>
