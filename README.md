@@ -68,6 +68,7 @@ Computer Vision       MERN Applications    Data Analytics
   <ul>
     <li>JWT authentication and role-based access</li>
     <li>REST APIs for goals, teams, users, audit logs, and exports</li>
+    <li>Role-specific dashboards for employees, managers, and admins</li>
     <li>MongoDB models with Mongoose</li>
   </ul>
 </td>
