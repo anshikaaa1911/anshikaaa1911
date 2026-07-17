@@ -9,8 +9,8 @@
 ### Building ML-powered products, full-stack apps, and data-driven systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://anshikaaa1911.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-bharti)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshikabharti1911@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshikaaa1911)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhartianshika1911@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anshikaaa1911-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshikaaa1911)
 
 </div>
